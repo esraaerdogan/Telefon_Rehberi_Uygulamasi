@@ -1,0 +1,6 @@
+@TelRehAPI_HostAddress = http://localhost:5143
+
+GET {{TelRehAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

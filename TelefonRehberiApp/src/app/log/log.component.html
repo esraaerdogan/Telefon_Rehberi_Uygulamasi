@@ -1,0 +1,19 @@
+<table>
+    <thead>
+      <tr>
+        <th>Tarih</th>
+        <th>Seviye</th>
+        <th>Mesaj</th>
+        <th>Logger</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let log of logs">
+        <td>{{ log.logDate | date:'short' }}</td>
+        <td>{{ log.logLevel }}</td>
+        <td>{{ log.message }}</td>
+        <td>{{ log.logger }}</td>
+      </tr>
+    </tbody>
+  </table>
+  

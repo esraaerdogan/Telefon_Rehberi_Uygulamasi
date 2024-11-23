@@ -1,0 +1,28 @@
+<div class="contact-form">
+  <h2>Kişi Ekle</h2>
+  <form #contactForm="ngForm" (ngSubmit)="onFormSubmit(contactForm)">
+    <label><i class="fas fa-user icon-margin"></i>İsim</label>
+    <input type="text" name="firstName" [(ngModel)]="model.FirstName" (ngModelChange)="onFirstNameChange($event)" required>
+    
+    <label><i class="fas fa-user icon-margin"></i>Soyisim</label>
+    <input type="text" name="lastName" [(ngModel)]="model.LastName" (ngModelChange)="onLastNameChange($event)">
+    
+    <label><i class="fas fa-phone icon-margin"></i>Telefon Numarası</label>
+    <input type="text" name="phoneNumber" [(ngModel)]="model.PhoneNumber" pattern="^0[1-9][0-9]{9,10}$" required placeholder="0XXX XXX XX XX">
+    <div *ngIf="contactForm.controls['phoneNumber']?.invalid && contactForm.controls['phoneNumber']?.touched">
+     <p class="error-message">Geçerli bir telefon numarası girin.</p>
+    </div>
+    
+    <label><i class="fas fa-envelope icon-margin"></i>E-Posta</label>
+    <input type="email" name="email" [(ngModel)]="model.Email" pattern="^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$">
+    <div *ngIf="contactForm.controls['email']?.invalid && contactForm.controls['email']?.touched">
+      <p class="error-message">Geçerli bir e-posta adresi girin.</p>
+    </div>
+    
+    <button type="submit" [disabled]="contactForm.invalid">Kaydet</button>
+
+    <div *ngIf="errorMessage" class="error-message">
+      <p>{{ errorMessage }}</p>
+    </div>
+  </form>
+</div>

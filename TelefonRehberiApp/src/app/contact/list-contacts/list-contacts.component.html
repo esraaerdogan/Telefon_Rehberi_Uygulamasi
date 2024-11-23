@@ -1,0 +1,12 @@
+<link rel="stylesheet" href="./list-contacts.component.css">
+
+<div class="ag-theme-alpine" style="height: 500px; width: 100%;">
+  <ag-grid-angular
+  (cellClicked)="onCellClicked($event)"
+  [rowData]="contacts"
+  [columnDefs]="columnDefs"
+  class="ag-theme-alpine"
+  domLayout="autoHeight"
+    style="width: 100%;">
+  </ag-grid-angular>
+</div>

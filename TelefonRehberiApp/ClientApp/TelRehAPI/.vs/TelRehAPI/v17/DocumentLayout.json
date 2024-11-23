@@ -1,0 +1,240 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\TelReh\\TelefonRehberiApp\\ClientApp\\TelRehAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3619871B-B77D-404E-834A-5C082FE1EAB9}|TelRehAPI\\TelRehAPI.csproj|c:\\users\\pc\\telreh\\telefonrehberiapp\\clientapp\\telrehapi\\telrehapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3619871B-B77D-404E-834A-5C082FE1EAB9}|TelRehAPI\\TelRehAPI.csproj|solutionrelative:telrehapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3619871B-B77D-404E-834A-5C082FE1EAB9}|TelRehAPI\\TelRehAPI.csproj|c:\\users\\pc\\telreh\\telefonrehberiapp\\clientapp\\telrehapi\\telrehapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3619871B-B77D-404E-834A-5C082FE1EAB9}|TelRehAPI\\TelRehAPI.csproj|solutionrelative:telrehapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3619871B-B77D-404E-834A-5C082FE1EAB9}|TelRehAPI\\TelRehAPI.csproj|c:\\users\\pc\\telreh\\telefonrehberiapp\\clientapp\\telrehapi\\telrehapi\\services\\loggingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3619871B-B77D-404E-834A-5C082FE1EAB9}|TelRehAPI\\TelRehAPI.csproj|solutionrelative:telrehapi\\services\\loggingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3619871B-B77D-404E-834A-5C082FE1EAB9}|TelRehAPI\\TelRehAPI.csproj|c:\\users\\pc\\telreh\\telefonrehberiapp\\clientapp\\telrehapi\\telrehapi\\repositories\\implementation\\personrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3619871B-B77D-404E-834A-5C082FE1EAB9}|TelRehAPI\\TelRehAPI.csproj|solutionrelative:telrehapi\\repositories\\implementation\\personrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3619871B-B77D-404E-834A-5C082FE1EAB9}|TelRehAPI\\TelRehAPI.csproj|c:\\users\\pc\\telreh\\telefonrehberiapp\\clientapp\\telrehapi\\telrehapi\\models\\domain\\logentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3619871B-B77D-404E-834A-5C082FE1EAB9}|TelRehAPI\\TelRehAPI.csproj|solutionrelative:telrehapi\\models\\domain\\logentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3619871B-B77D-404E-834A-5C082FE1EAB9}|TelRehAPI\\TelRehAPI.csproj|c:\\users\\pc\\telreh\\telefonrehberiapp\\clientapp\\telrehapi\\telrehapi\\models\\domain\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3619871B-B77D-404E-834A-5C082FE1EAB9}|TelRehAPI\\TelRehAPI.csproj|solutionrelative:telrehapi\\models\\domain\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3619871B-B77D-404E-834A-5C082FE1EAB9}|TelRehAPI\\TelRehAPI.csproj|c:\\users\\pc\\telreh\\telefonrehberiapp\\clientapp\\telrehapi\\telrehapi\\migrations\\20240813074203_updatecontactidtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3619871B-B77D-404E-834A-5C082FE1EAB9}|TelRehAPI\\TelRehAPI.csproj|solutionrelative:telrehapi\\migrations\\20240813074203_updatecontactidtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3619871B-B77D-404E-834A-5C082FE1EAB9}|TelRehAPI\\TelRehAPI.csproj|c:\\users\\pc\\telreh\\telefonrehberiapp\\clientapp\\telrehapi\\telrehapi\\migrations\\20240801151943_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3619871B-B77D-404E-834A-5C082FE1EAB9}|TelRehAPI\\TelRehAPI.csproj|solutionrelative:telrehapi\\migrations\\20240801151943_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3619871B-B77D-404E-834A-5C082FE1EAB9}|TelRehAPI\\TelRehAPI.csproj|c:\\users\\pc\\telreh\\telefonrehberiapp\\clientapp\\telrehapi\\telrehapi\\data\\teldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3619871B-B77D-404E-834A-5C082FE1EAB9}|TelRehAPI\\TelRehAPI.csproj|solutionrelative:telrehapi\\data\\teldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3619871B-B77D-404E-834A-5C082FE1EAB9}|TelRehAPI\\TelRehAPI.csproj|c:\\users\\pc\\telreh\\telefonrehberiapp\\clientapp\\telrehapi\\telrehapi\\controllers\\telrehcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3619871B-B77D-404E-834A-5C082FE1EAB9}|TelRehAPI\\TelRehAPI.csproj|solutionrelative:telrehapi\\controllers\\telrehcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3619871B-B77D-404E-834A-5C082FE1EAB9}|TelRehAPI\\TelRehAPI.csproj|c:\\users\\pc\\telreh\\telefonrehberiapp\\clientapp\\telrehapi\\telrehapi\\controllers\\logcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3619871B-B77D-404E-834A-5C082FE1EAB9}|TelRehAPI\\TelRehAPI.csproj|solutionrelative:telrehapi\\controllers\\logcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3619871B-B77D-404E-834A-5C082FE1EAB9}|TelRehAPI\\TelRehAPI.csproj|c:\\users\\pc\\telreh\\telefonrehberiapp\\clientapp\\telrehapi\\telrehapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3619871B-B77D-404E-834A-5C082FE1EAB9}|TelRehAPI\\TelRehAPI.csproj|solutionrelative:telrehapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3619871B-B77D-404E-834A-5C082FE1EAB9}|TelRehAPI\\TelRehAPI.csproj|c:\\users\\pc\\telreh\\telefonrehberiapp\\clientapp\\telrehapi\\telrehapi\\telrehapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{3619871B-B77D-404E-834A-5C082FE1EAB9}|TelRehAPI\\TelRehAPI.csproj|solutionrelative:telrehapi\\telrehapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\PC\\TelReh\\TelefonRehberiApp\\ClientApp\\TelRehAPI\\TelRehAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "TelRehAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\PC\\TelReh\\TelefonRehberiApp\\ClientApp\\TelRehAPI\\TelRehAPI\\appsettings.json",
+              "RelativeToolTip": "TelRehAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-23T14:06:09.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\TelReh\\TelefonRehberiApp\\ClientApp\\TelRehAPI\\TelRehAPI\\Program.cs",
+              "RelativeDocumentMoniker": "TelRehAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\TelReh\\TelefonRehberiApp\\ClientApp\\TelRehAPI\\TelRehAPI\\Program.cs",
+              "RelativeToolTip": "TelRehAPI\\Program.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAAoAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T09:11:55.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PersonRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\TelReh\\TelefonRehberiApp\\ClientApp\\TelRehAPI\\TelRehAPI\\Repositories\\Implementation\\PersonRepository.cs",
+              "RelativeDocumentMoniker": "TelRehAPI\\Repositories\\Implementation\\PersonRepository.cs",
+              "ToolTip": "C:\\Users\\PC\\TelReh\\TelefonRehberiApp\\ClientApp\\TelRehAPI\\TelRehAPI\\Repositories\\Implementation\\PersonRepository.cs",
+              "RelativeToolTip": "TelRehAPI\\Repositories\\Implementation\\PersonRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T14:05:45.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\TelReh\\TelefonRehberiApp\\ClientApp\\TelRehAPI\\TelRehAPI\\Models\\Domain\\Contact.cs",
+              "RelativeDocumentMoniker": "TelRehAPI\\Models\\Domain\\Contact.cs",
+              "ToolTip": "C:\\Users\\PC\\TelReh\\TelefonRehberiApp\\ClientApp\\TelRehAPI\\TelRehAPI\\Models\\Domain\\Contact.cs",
+              "RelativeToolTip": "TelRehAPI\\Models\\Domain\\Contact.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T14:05:21.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoggingService.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\TelReh\\TelefonRehberiApp\\ClientApp\\TelRehAPI\\TelRehAPI\\Services\\LoggingService.cs",
+              "RelativeDocumentMoniker": "TelRehAPI\\Services\\LoggingService.cs",
+              "ToolTip": "C:\\Users\\PC\\TelReh\\TelefonRehberiApp\\ClientApp\\TelRehAPI\\TelRehAPI\\Services\\LoggingService.cs",
+              "RelativeToolTip": "TelRehAPI\\Services\\LoggingService.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAowAAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T12:17:34.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20240813074203_UpdateContactIdType.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\TelReh\\TelefonRehberiApp\\ClientApp\\TelRehAPI\\TelRehAPI\\Migrations\\20240813074203_UpdateContactIdType.cs",
+              "RelativeDocumentMoniker": "TelRehAPI\\Migrations\\20240813074203_UpdateContactIdType.cs",
+              "ToolTip": "C:\\Users\\PC\\TelReh\\TelefonRehberiApp\\ClientApp\\TelRehAPI\\TelRehAPI\\Migrations\\20240813074203_UpdateContactIdType.cs",
+              "RelativeToolTip": "TelRehAPI\\Migrations\\20240813074203_UpdateContactIdType.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T14:04:55.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20240801151943_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\TelReh\\TelefonRehberiApp\\ClientApp\\TelRehAPI\\TelRehAPI\\Migrations\\20240801151943_InitialCreate.cs",
+              "RelativeDocumentMoniker": "TelRehAPI\\Migrations\\20240801151943_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\PC\\TelReh\\TelefonRehberiApp\\ClientApp\\TelRehAPI\\TelRehAPI\\Migrations\\20240801151943_InitialCreate.cs",
+              "RelativeToolTip": "TelRehAPI\\Migrations\\20240801151943_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T14:04:52.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LogEntry.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\TelReh\\TelefonRehberiApp\\ClientApp\\TelRehAPI\\TelRehAPI\\Models\\Domain\\LogEntry.cs",
+              "RelativeDocumentMoniker": "TelRehAPI\\Models\\Domain\\LogEntry.cs",
+              "ToolTip": "C:\\Users\\PC\\TelReh\\TelefonRehberiApp\\ClientApp\\TelRehAPI\\TelRehAPI\\Models\\Domain\\LogEntry.cs",
+              "RelativeToolTip": "TelRehAPI\\Models\\Domain\\LogEntry.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T12:18:18.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TelDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\TelReh\\TelefonRehberiApp\\ClientApp\\TelRehAPI\\TelRehAPI\\Data\\TelDbContext.cs",
+              "RelativeDocumentMoniker": "TelRehAPI\\Data\\TelDbContext.cs",
+              "ToolTip": "C:\\Users\\PC\\TelReh\\TelefonRehberiApp\\ClientApp\\TelRehAPI\\TelRehAPI\\Data\\TelDbContext.cs",
+              "RelativeToolTip": "TelRehAPI\\Data\\TelDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T14:04:25.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TelRehController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\TelReh\\TelefonRehberiApp\\ClientApp\\TelRehAPI\\TelRehAPI\\Controllers\\TelRehController.cs",
+              "RelativeDocumentMoniker": "TelRehAPI\\Controllers\\TelRehController.cs",
+              "ToolTip": "C:\\Users\\PC\\TelReh\\TelefonRehberiApp\\ClientApp\\TelRehAPI\\TelRehAPI\\Controllers\\TelRehController.cs",
+              "RelativeToolTip": "TelRehAPI\\Controllers\\TelRehController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAKgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T13:51:00.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LogController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\TelReh\\TelefonRehberiApp\\ClientApp\\TelRehAPI\\TelRehAPI\\Controllers\\LogController.cs",
+              "RelativeDocumentMoniker": "TelRehAPI\\Controllers\\LogController.cs",
+              "ToolTip": "C:\\Users\\PC\\TelReh\\TelefonRehberiApp\\ClientApp\\TelRehAPI\\TelRehAPI\\Controllers\\LogController.cs",
+              "RelativeToolTip": "TelRehAPI\\Controllers\\LogController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T13:49:00.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\PC\\TelReh\\TelefonRehberiApp\\ClientApp\\TelRehAPI\\TelRehAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "TelRehAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\PC\\TelReh\\TelefonRehberiApp\\ClientApp\\TelRehAPI\\TelRehAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "TelRehAPI\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-23T13:48:46.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TelRehAPI",
+              "DocumentMoniker": "C:\\Users\\PC\\TelReh\\TelefonRehberiApp\\ClientApp\\TelRehAPI\\TelRehAPI\\TelRehAPI.csproj",
+              "RelativeDocumentMoniker": "TelRehAPI\\TelRehAPI.csproj",
+              "ToolTip": "C:\\Users\\PC\\TelReh\\TelefonRehberiApp\\ClientApp\\TelRehAPI\\TelRehAPI\\TelRehAPI.csproj",
+              "RelativeToolTip": "TelRehAPI\\TelRehAPI.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-23T13:48:41.746Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

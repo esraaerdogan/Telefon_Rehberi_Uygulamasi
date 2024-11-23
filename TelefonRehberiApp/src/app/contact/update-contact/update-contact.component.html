@@ -1,0 +1,58 @@
+<div class="contact-form">
+
+    <h1 class="mt-3">Kişi Düzenle</h1>
+    <button type="button" class="btn btn-secondary ms-3" (click)="onCancel()">Vazgeç</button>
+    <ng-container *ngIf="person; else notFound">
+        <form #contactForm="ngForm" (ngSubmit)="onFormSubmit()" (ngModelChange)="onFormChange()">
+            <div class="mt-2">
+                <div class="mt-3">
+                    <label class="form-label" for="personFirstName">
+                        <i class="fas fa-user icon-margin"></i>İsim
+                    </label>
+                    <input type="text" id="personFirstName" class="form-control" name="personFirstName" 
+                    [(ngModel)]="person.firstName" required>
+                </div>
+                <div class="mt-3">
+                    <label class="form-label" for="personLastName">
+                        <i class="fas fa-user icon-margin"></i>Soyisim
+                    </label>
+                    <input type="text" id="personLastName" class="form-control" name="personLastName" 
+                    [(ngModel)]="person.lastName" required>
+                </div>
+                <div class="mt-3">
+                    <label class="form-label" for="personPhoneNumber">
+                        <i class="fas fa-phone icon-margin"></i>Telefon Numarası
+                    </label>
+                    <input type="text" id="personPhoneNumber" class="form-control" name="personPhoneNumber" 
+                    [(ngModel)]="person.phoneNumber" pattern="^0[1-9][0-9]{9,10}$" required>
+                    <div *ngIf="contactForm.controls['personPhoneNumber']?.invalid && 
+                    contactForm.controls['personPhoneNumber']?.touched">
+                        <p class="error-message">Geçerli bir telefon numarası girin.</p>
+                    </div>
+                </div>
+                <div class="mt-3">
+                    <label class="form-label" for="personEmail">
+                        <i class="fas fa-envelope icon-margin"></i>E-Posta
+                    </label>
+                    <input type="email" id="personEmail" class="form-control" name="personEmail" 
+                    [(ngModel)]="person.email" pattern="^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$">
+                    <div *ngIf="contactForm.controls['personEmail']?.invalid && 
+                    contactForm.controls['personEmail']?.touched">
+                        <p class="error-message">Geçerli bir e-posta adresi girin.</p>
+                    </div>
+                </div>
+
+                <div class="mt-3 d-flex">
+                    <button type="submit" class="btn btn-primary"  
+                    [disabled]="!contactForm.dirty || contactForm.invalid">Kaydet</button> <br>
+                    <button type="button" class="btn btn-danger ms-3" (click)="onDelete()">Sil</button>
+                </div>
+            </div>
+        </form>
+    </ng-container>
+
+    <ng-template #notFound>
+        <div class="alert alert-warning" role="alert">Kişi Bulunamadı</div>
+    </ng-template>
+
+</div>

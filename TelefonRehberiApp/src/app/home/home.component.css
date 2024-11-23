@@ -1,0 +1,50 @@
+.home-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 50vh;
+    padding: 20px;
+ } 
+  
+  button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    padding: 10px 20px;
+    font-size: 16px;
+  }
+  
+  button:hover {
+    background-color: #0056b3; 
+  }
+
+.button-container {
+  display: flex;
+  justify-content: center;
+  gap: 20px; /* Kartlar arasında boşluk */
+  flex-wrap: wrap; /* Ekran boyutuna göre kartları sarar */
+}
+
+.card {
+  background-color: #f9f9f9;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 20px;
+  width: 300px; 
+  max-width: 100%; 
+  text-align: center;
+  box-shadow: 0 4px 8px rgba(0, 
+  0, 0, 0.1);
+}
+
+.card h2 {
+  margin-bottom: 10px;
+}
+
+.card button {
+  margin-top: 10px;
+}
