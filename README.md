@@ -13,3 +13,5 @@ Server Side tarafta katmanlı mimari yapılmıştır.
 Generic Repository Design Pattern kullanılmıştır.
 Tablo olarak Angular Ag-Grid kullanılmıştır. 
 Nlog kütüphanesi ile yapılan tüm işlemler loglanmıştır. Hem veritabanında hem de projedeki log klasöründe txt uzantılı dosyada loglanmıştır. 
+
+Projeyi çalıştırmak için öncelikle appsettings.json ile nlog.config dosyalarındaki veri tabanı bağlantısını gerçekleştirin. Ardından ClientApp dosyasındaki sln projesini çalıştırın. Son olarak Angular uygulamasını çalıştırıp uygulamayı kullanabilirsiniz. 
